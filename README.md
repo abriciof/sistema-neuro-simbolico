@@ -11,9 +11,6 @@
 *   Lorena Bastos Amazonas - 21952638
 *   Mattheus Smith Costa - 21954379
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65060013/167069653-425d9f2c-9b97-416f-9774-f7cb8ab753bb.gif">
-</p>
 
 
 > ## Como usar
@@ -23,3 +20,9 @@
 > - Execute todas as células
 > - As demais instruções estão presentes no próprios escopo dentre os códigos
 > 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65060013/167069653-425d9f2c-9b97-416f-9774-f7cb8ab753bb.gif">
+  <br> Estrutura da RNA, por Fabrício Guimarães.
+</p>
