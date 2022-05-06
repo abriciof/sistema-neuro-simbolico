@@ -19,7 +19,7 @@
 > ## Como usar
 >
 > - Baixe a base de dados para o uso da rede neural, disponível em [base-positivos-negativos.csv](https://github.com/abriciof/sistema-neuro-simbolico/blob/main/base-positivos-negativos.csv)
-> - Abra o arquivo \ref no Jupyter Notebook/Google Colab
+> - Abra o arquivo [sistema_neuro_simbolico.ipynb](https://github.com/abriciof/sistema-neuro-simbolico/blob/main/sistema_neuro_simbolico.ipynb) no Jupyter Notebook/Google Colab
 > - Execute todas as células
 > - As demais instruções estão presentes no próprios escopo dentre os códigos
 > 
