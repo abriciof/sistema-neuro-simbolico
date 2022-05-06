@@ -9,7 +9,7 @@
 *   Fabrício da Costa Guimarães - 21950515
 *   Laura Aguiar Martinho - 21952064
 *   Lorena Bastos Amazonas - 21952638
-*   Mattheus Smith Costa - 21954379
+*   Mattheus Smith Costa Fernandes - 21954379
 
 
 
