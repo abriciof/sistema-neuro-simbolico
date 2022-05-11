@@ -23,6 +23,9 @@
 > 
 
 
+[Acesso ao artigo](https://github.com/abriciof/sistema-neuro-simbolico/blob/main/Implementa%C3%A7%C3%A3o%20do%20m%C3%A9todo%20de%20Aprendizagem%20Relacional%20no%20paradigma%20de%20Sistemas%20Neuro-Simb%C3%B3licos.pdf)
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65060013/167069653-425d9f2c-9b97-416f-9774-f7cb8ab753bb.gif">
   <br> Estrutura da RNA, por Fabrício Guimarães.
