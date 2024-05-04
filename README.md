@@ -6,10 +6,10 @@
 *Inteligência Artificial Turma EC01 2021/1*<br>
 
 
-*   Fabrício da Costa Guimarães - 21950515
-*   Laura Aguiar Martinho - 21952064
-*   Lorena Bastos Amazonas - 21952638
-*   Mattheus Smith Costa Fernandes - 21954379
+*   Fabrício da Costa Guimarães 
+*   Laura Aguiar Martinho 
+*   Lorena Bastos Amazonas 
+*   Mattheus Smith Costa Fernandes 
 
 
 
